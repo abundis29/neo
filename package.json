@@ -1,7 +1,7 @@
 {
-  "name": "neo",
-  "version": "1.0.0",
-  "description": "",
+  "name": "neo-module",
+  "version": "1.0.1",
+  "description": "The Neo module is a utility library for building user interfaces in web applications. It provides a set of functions and components for creating UI elements in a structured manner.",
   "main": "index.ts",
   "types": "index.d.ts",
   "scripts": {
@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/abundis29/neo.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["UI"],
+  "author": "Abundis,Ivan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/abundis29/neo/issues"
@@ -22,5 +22,3 @@
     "typescript": "^5.2.2"
   }
 }
-
-
