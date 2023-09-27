@@ -1,0 +1,26 @@
+{
+  "name": "neo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abundis29/neo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abundis29/neo/issues"
+  },
+  "homepage": "https://github.com/abundis29/neo#readme",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
+
+
